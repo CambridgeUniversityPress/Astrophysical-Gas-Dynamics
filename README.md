@@ -1,6 +1,6 @@
 # *Astrophysical Gas Dynamics*
 
-Jupyter notebooks, python code, and selected data files and sources for the figures from [*Astrophysical Gas Dynamics*]() by Barbara Ryden.
+Jupyter notebooks, python code, and selected data files and sources for the figures from *Astrophysical Gas Dynamics* by Barbara Ryden.
 
 ## Overview
 *Astrophysical Gas Dynamics* by Barbara S. Ryden is the fourth volume in *The Ohio State Astrophysics Series* of 
