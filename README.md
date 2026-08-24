@@ -65,11 +65,11 @@ DOI: coming soon
 #### BibTeX
 BibTeX citation text ready to cut-and-paste. 
 ```
-@book{Ryden_2025,
+@book{Ryden_2027,
        author = {Ryden, Barbara},
        title = {Astrophysical Gas Dynamics},
-       year = {2026},
-       doi = {10.1017/coming soon}
+       year = {2027},
+       doi = {10.1017/coming soon...}
 }
 ```
 
